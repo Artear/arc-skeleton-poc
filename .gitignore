@@ -8,7 +8,6 @@
 /documentation/artifacts/GettingStartedDBDump.tar.gz
 
 /data/db/
-/data/dumps/**
 !/data/dumps/.gitkeep
 /data/restore/**
 !/data/restore/.gitkeep
